@@ -14,10 +14,6 @@ O documento de referência de Requisitos e Regras de Negócio pode acessado atra
 ## 💻 Instalação, Dependências e Executando o Projeto
 **1.** Clone este repositório
 ```
-git clone git@github.com:Ygohr/fin-api-ignite-nodejs.git
-```
-**2.** Vá até o diretório raiz do projeto
-```
 cd fin-api-ignite-nodejs
 ```
 **3.** Instale as dependências necessárias
@@ -40,4 +36,4 @@ Nesta aplicação, são contemplados **Testes Unitários e Testes de Integraçã
 
 ![](assets/test-evidence.png)
 
-- **Desenvolvido** **por** [**Ygohr**](https://www.linkedin.com/in/ygohr-medeiros-28451b14a/) 🤖
+
